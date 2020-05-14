@@ -29,7 +29,6 @@ jsproxy_config({
     'mysite': {
       label: '当前站点',
       lines: {
-        // 'https://service-qc99e0xw-1252112975.gz.apigw.tencentcs.com/release/node':1
         'falling-disk-c0a9.2609543680.workers.dev':1
       }
     },
